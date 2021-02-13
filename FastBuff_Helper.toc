@@ -1,0 +1,14 @@
+## Interface: 11306
+## Title: |cffffff00FastBuff|r |cff888888ID Spread|r |cffbb00bbInvite Helper|r |cffffffffv1.1.3|r
+## Notes: Makro erstellen mit: /run fbh_kickto("SpielerName")
+## Author: Jrojimo aka Naxxani
+## Version: 1.1.3
+## SavedVariablesPerCharacter: 
+## SavedVariables: 
+## DefaultState: disabled
+
+FB_Variablen.lua
+FB_Funktionen.lua
+FB_Main.lua
+FB_Status.lua
+FB_Sort.lua
